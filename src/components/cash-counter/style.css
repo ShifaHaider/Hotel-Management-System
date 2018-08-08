@@ -1,0 +1,52 @@
+.select{
+
+    padding: 5px;
+    /*padding: 12px;*/
+    justify-content: space-between;
+    position: relative;
+    align-items: center;
+    font-size: initial;
+    width: 250px;
+    margin-top: 40px;
+    /*width: 256px;*/
+}
+.selectField{
+    /*height: 42px;*/
+    /*border-color: hsl(0,0%,80%);*/
+    /*border-radius: 4px;*/
+    /*box-sizing: border-box;*/
+    /*border-style: solid;*/
+    /*border-width: 1px;*/
+    /*!*padding-top: 8px;*!*/
+    width: 250px;
+    margin-left: 5px;
+
+    /*margin-left: 5px;*/
+    /*color: rgba(0, 0, 0, 0.87);*/
+    /*height: 42px;*/
+    /*line-height: 56px;*/
+    /*overflow: hidden;*/
+    /*opacity: 1;*/
+    /*position: relative;*/
+    /*padding-right: 56px;*/
+    /*border: 1px solid rgb(204, 204, 204);*/
+    /*background-color: rgb(250, 250, 250);*/
+}
+.input{
+    border-color: hsl(0,0%,80%);
+    border-radius: 4px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 1px;
+    padding: 3px;
+    /*padding: 12px;*/
+    justify-content: space-between;
+    outline: 0 !important;
+    position: relative;
+    align-items: center;
+    background-color: hsl(0,0%,98%);
+    font-size: initial;
+    width: 250px;
+    margin-left: 5px;
+    /*width: 256px;*/
+}
